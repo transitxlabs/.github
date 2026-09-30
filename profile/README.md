@@ -1,3 +1,10 @@
+<p align="center" class="brand-mark">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="brand/transitx-mark-dark.png">
+    <img src="brand/transitx-mark.png" alt="TransitX Labs" width="140">
+  </picture>
+</p>
+
 # TransitX Labs Inc.
 
 TransitX explores multimodal mobility through research, design studies and simulation. Work may consider land, air and water transport concepts. Public material is not evidence of a certified vehicle, flight operation or safety approval.
