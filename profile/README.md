@@ -15,6 +15,8 @@ TransitX explores multimodal mobility through research, design studies and simul
 
 **Our own work, and only ours.** Everything we publish here is our own, built from public data and synthetic examples. It never includes client data, client projects, or anyone else's confidential information or intellectual property.
 
+How we work: our own code and documentation in these repositories were written with AI coding assistants and reviewed, tested and revised by Amir Daneshpajouh; open-source parts made by others are credited where used.
+
 ## Public projects
 
 - [transit-access-audit](https://github.com/transitxlabs/transit-access-audit): accessibility, service and equity audits for Canadian GTFS transit feeds.
