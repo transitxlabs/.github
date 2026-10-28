@@ -25,4 +25,4 @@ TransitX explores multimodal mobility through research, design studies and simul
 
 Contact: info@transitxlabs.ca | Website: https://transitxlabs.ca/
 
-Our code and documentation are written with AI coding assistants under the direction of Amir Daneshpajouh, and checked by their tests and an AI-assisted release check before publication; open-source parts made by others are credited where used.
+Open-source parts made by others are credited where used.
