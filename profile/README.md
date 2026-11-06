@@ -19,9 +19,6 @@ TransitX explores multimodal mobility through research, design studies and simul
 
 - [transit-access-audit](https://github.com/transitxlabs/transit-access-audit): accessibility, service and equity audits for Canadian GTFS transit feeds.
 - [edmonton-network-lab](https://github.com/transitxlabs/edmonton-network-lab): how many people Edmonton residents can reach by scheduled transit, and how much each route's removal costs; the Capital Line LRT costs the most.
-- [transit-safety-lens](https://github.com/transitxlabs/transit-safety-lens): checks of published US National Transit Database safety records, and how many reported rate changes stand out under a stated model.
-- [checked-here](https://github.com/transitxlabs/checked-here): a demonstration of a dated station board of staff-checked safety actions, with synthetic data.
-- [fleet-rightsizing](https://github.com/transitxlabs/fleet-rightsizing): a public-data fleet right-sizing demonstration with conservative light-duty screening and sourced factors.
 
 Contact: info@transitxlabs.ca | Website: https://transitxlabs.ca/
 
